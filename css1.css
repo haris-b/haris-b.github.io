@@ -1,8 +1,13 @@
-body {
+html {
 	background-color: rgb(255,255,255);
 }
 
 h1 {
 	text-size: 3pt;
 	font-family: sans-serif;
+}
+
+#title {
+	color: rgb(33,94,174);
+	margin: auto;
 }
